@@ -1,0 +1,5 @@
+In this unique game you keep watch on the wacky Neo Poke-kun, a cartoony programmer...thing that lives locked in his small Tokyo apartment. You don't have direct control of his actions but instead interact with him indirectly by switching stuff in his apartment on and off, which triggers different reactions from him. More importantly you can invite different characters to visit Neo Poke-kun, which will also trigger different reactions from him. Depending on the time of day and the visitor you may get different reactions from Poke-kun, and if you make him happy enough he'll get to work and code a mini-game for you.
+
+These collection of 30 games form the bulk of the gameplay, and include different clones of other games, shooters, short platformers, and compact puzzle challenges similar to Wario Ware
+
+The game has a distinctly bizarre sense of humor with tons of wacky animations played whenever something happens to your Poke-kun, and while some games use basic vector graphics, most use 2D sprites.
